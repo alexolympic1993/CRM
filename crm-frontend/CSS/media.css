@@ -1,0 +1,74 @@
+@media(max-width: 768px) {
+    .tdCreateWrapper{
+        display: inline-block;
+    }
+
+    .btnWrapper:nth-child(2n+1) {
+        padding-right: 0px;
+        padding-bottom: 5px;
+    }
+
+    .tdBtnDeleteWrapper{
+        display: inline-block;
+    }
+
+    .table__item td {
+        padding: 10px;
+    }
+
+    .table__create{
+        width: 82px;
+    }
+
+    .table__update{
+        width: 82px;
+    }
+
+    .table__fio{
+        width: 181px;
+    }
+
+}
+
+@media(max-width: 768px) {
+    .header__input{
+        display: none;
+    }
+
+    .header__wrapper{
+        padding: 8px 0px 8px 0px;
+        margin: 0 auto;
+        justify-content: center;
+    }
+
+    .header__logo{
+        margin-right: 0;
+        width: 24px;
+        height: 24px;
+    }
+
+    .table{
+        padding: 30px 0px 0px 10px;
+    }
+
+    .table__title{
+        font-size: 18px;
+    }
+
+    .modal{
+        padding: 24px 15px;
+    }
+
+    .modal__btn__svg {
+        top: -77px;
+        right: -22px;
+    }
+
+
+
+
+
+
+
+
+}
